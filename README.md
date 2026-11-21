@@ -6,6 +6,13 @@ Li Ryoyan : 150181484
   2. Make sure the dataset files are placed in the correct directory.
   3. Run the notebook cells in order to reproduce the experiments and results.
 
+## Before you run part 2:
+To run part 2, you need to run these cells before runing part 2 at least:
+- cells to find paths, include open datasets
+- split data into train, val and test sets
+- setup part for baselines in part 1
+- evaluation metrics (named as evaluate_model)
+
 ## Enviroment:
  - Python 3.x
 ## Python packages:
